@@ -10,19 +10,19 @@ excerpt: "Teaching"
 
 - [BAN432 Applied Textual Data Analysis for Business and Science](https://www.nhh.no/en/courses/applied-textual-data-analysis-for-business-and-finance/)
 - [BAN439 Detecting Fraud through Textual Analysis](https://www.nhh.no/en/courses/detecting-fraud-through-textual-analysis/)
-- [INS410, Innovation School](https://www.nhh.no/en/courses/innovation-school/) (guest lecture)
+- [INS410 Innovation School](https://www.nhh.no/en/courses/innovation-school/) (guest lecture)
 
 ## Academic year 2022
 
 - [BAN432 Applied Textual Data Analysis for Business and Science](https://www.nhh.no/en/courses/applied-textual-data-analysis-for-business-and-finance/)
 - [BAN439 Detecting Fraud through Textual Analysis](https://www.nhh.no/en/courses/detecting-fraud-through-textual-analysis/)
-- [INS410, Innovation School](https://www.nhh.no/en/courses/innovation-school/) (guest lecture)
+- [INS410 Innovation School](https://www.nhh.no/en/courses/innovation-school/) (guest lecture)
 
 ## Academic year 2021
 
 - [BAN432 Applied Textual Data Analysis for Business and Science](https://www.nhh.no/en/courses/applied-textual-data-analysis-for-business-and-finance/)
 - [TYS10 German for Economics](https://www.nhh.no/emner/tysk-okonomisk-sprak/)
-- [INS410, Innovation School](https://www.nhh.no/en/courses/innovation-school/) (guest lecture)
+- [INS410 Innovation School](https://www.nhh.no/en/courses/innovation-school/) (guest lecture)
 
 ## Academic year 2020
 
