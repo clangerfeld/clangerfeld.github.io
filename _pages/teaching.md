@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching (most recent)"
+title: "Teaching"
 author_profile: true
 excerpt: "Teaching"
 ---
