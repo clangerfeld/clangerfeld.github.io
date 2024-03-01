@@ -20,15 +20,11 @@ My research employs corpus linguistics and NLP (Natural Language Processing) tec
 ## Published papers
 Langerfeld, C & Andersen, G (2023): “The Dynamics of Turn-taking in Meetings of the Federal Open Market Committee.” Fachsprache. Journal of Professional and Scientific Communication 45.3–4: 187–210.
 
-Simonnæs, I., Langerfeld, C., Roald, J. & Sandvei, B. (2015). "Teaching legal
-translation in Norway – JurDist: an online course." Terminology Science
-& Research 25: 28–39.
+Simonnæs, I., Langerfeld, C., Roald, J. & Sandvei, B. (2015). "Teaching legal translation in Norway – JurDist: an online course." Terminology Science & Research 25: 28–39.
 
-Langerfeld, C. (2015). "Metaphern und metaphorische Modelle in Artikeln der
-Wirtschaftspresse und in wirtschaftswissenschaftlichen Zeitschriftenaufsätzen. Am Beispiel des Deutschen und Norwegischen." University of Bergen:Bergen.
+Langerfeld, C. (2015). "Metaphern und metaphorische Modelle in Artikeln der Wirtschaftspresse und in wirtschaftswissenschaftlichen Zeitschriftenaufsätzen. Am Beispiel des Deutschen und Norwegischen." University of Bergen: Bergen.
 
-Langerfeld, C. (2009). "Zur Differenzierung des Metaphernbegriffs." Synaps 22:
-31–52.
+Langerfeld, C. (2009). "Zur Differenzierung des Metaphernbegriffs." Synaps 22: 31–52.
 
 # Teaching (most recent)
 **Norwegian School of Economics**:
