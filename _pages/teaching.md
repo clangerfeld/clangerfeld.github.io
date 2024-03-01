@@ -1,8 +1,8 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching (most recent)"
 author_profile: true
-excerpt: "Teaching (most recent)"
+excerpt: "Teaching"
 ---
 
 # Norwegian School of Economics
