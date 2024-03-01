@@ -25,3 +25,28 @@ Langerfeld, C. (2015). "Metaphern und metaphorische Modelle in Artikeln der Wirt
 
 Langerfeld, C. (2009). "Zur Differenzierung des Metaphernbegriffs." Synaps 22: 31–52.
 
+# Teaching (most recent)
+**Norwegian School of Economics**:
+
+- Master course BAN432, [“Applied Textual Data Analysis for Business and Finance”](https://www.nhh.no/en/courses/applied-textual-data-analysis-for-business-and-finance/)
+
+- Master course BAN439, [“Detecting Fraud through Textual Analysis”](https://www.nhh.no/en/courses/detecting-fraud-through-textual-analysis/)
+
+- Bachelor course TYS10, [“German for Economics”](https://www.nhh.no/emner/tysk-okonomisk-sprak/)
+
+- Bachelor course TYS11, ["German for Economics II"](https://www.nhh.no/emner/tysk-okonomisk-sprak-ii/)
+
+
+# Vita
+## Academic appointments
+- Norwegian School of Economics, associate professor, 2022 -- present
+- Norwegian School of Economics, assistant professor, 2019 -- 2022
+- Norwegian School of Economics, postdoc, 2015 -- 2019
+- University of Bergen, assistant professor, 2007
+
+## Education
+**University of Bergen/Norwegian School of Economics**:
+PhD in *German linguistics*, 2015
+
+**University of Bergen**: Masters degree in *German linguistics*, 2006
+
