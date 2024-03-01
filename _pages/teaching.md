@@ -38,4 +38,4 @@ excerpt: "Teaching (most recent)"
 - [BAN432 Applied Textual Data Analysis for Business and Science](https://www.nhh.no/en/courses/applied-textual-data-analysis-for-business-and-finance/)
 
 ## Academic year 2017
-FIE452 “Applied Textual Data Analysis for Business and Finance
+- FIE452 “Applied Textual Data Analysis for Business and Finance
