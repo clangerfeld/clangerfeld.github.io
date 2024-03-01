@@ -12,6 +12,8 @@ I am an Associate Professor of Digital Text Analysis at the Norwegian School of 
 
 My research employs corpus linguistics and NLP (Natural Language Processing) techniques to analyze textual data from business related domains. Recently, I have been focusing my research on meeting transcripts of the Federal Open Market Committee (FOMC). In 2023 I co-authored a paper on turn taking mechanisms in FOMC meetings.
 
+---
+
 # Research
 ## Work in progress
 - "Humor and laughter as indicators of meeting leadership style", together with [G. Andersen](https://www.nhh.no/en/employees/faculty/gisle-andersen/)
@@ -25,6 +27,8 @@ Langerfeld, C. (2015). "Metaphern und metaphorische Modelle in Artikeln der Wirt
 
 Langerfeld, C. (2009). "Zur Differenzierung des Metaphernbegriffs." Synaps 22: 31–52.
 
+---
+
 # Teaching (most recent)
 **Norwegian School of Economics**:
 
@@ -36,6 +40,7 @@ Langerfeld, C. (2009). "Zur Differenzierung des Metaphernbegriffs." Synaps 22: 3
 
 - Bachelor course TYS11, ["German for Economics II"](https://www.nhh.no/emner/tysk-okonomisk-sprak-ii/)
 
+---
 
 # Vita
 ## Academic appointments
