@@ -1,6 +1,7 @@
 ---
 title: "The Dynamics of Turn-taking in Meetings of the Federal Open Market Committee."
 collection: publications
+venue: 'Fachsprache. Journal of Professional and Scientific Communication 45.3–4'
 citation: 'Langerfeld, C & Andersen, G (2023): “The Dynamics of Turn-taking in Meetings of the Federal Open Market Committee.” Fachsprache. Journal of Professional and Scientific Communication 45.3–4: 187–210.'
 ---
 
