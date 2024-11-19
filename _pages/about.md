@@ -10,15 +10,15 @@ redirect_from:
 # Bio
 I am an Associate Professor of Digital Text Analysis at the Norwegian School of Economics (NHH) in Bergen, Norway, focusing on the study of professional and specialized communication. I have been in my current position since 2022. I hold a PhD degree form the University of Bergen and a Masters degree also from the University of Bergen.
 
-My research employs corpus linguistics and NLP (Natural Language Processing) techniques to analyze textual data from business related domains. Recently, I have been focusing my research on meeting transcripts of the Federal Open Market Committee (FOMC). In 2023 I co-authored a [paper](https://ejournals.facultas.at/index.php/fachsprache/article/view/2201) on turn taking mechanisms in FOMC meetings.
+My research employs corpus linguistics and NLP (Natural Language Processing) techniques to analyze textual data from business related domains. Recently, I have been focusing my research on meeting transcripts of the Federal Open Market Committee (FOMC). In 2023 I co-authored a [paper](https://ejournals.facultas.at/index.php/fachsprache/article/view/2201) on turn taking mechanisms in FOMC meetings. Building on the same data set, I co-authored a [paper](https://doi.org/10.1177/14614456241276762) exploring humor and laughter in FOMC meetings as indicators of meeting leadership style.
 
 ---
 
 # Research
-## Work in progress
-- "Humor and laughter as indicators of meeting leadership style", together with [G. Andersen](https://www.nhh.no/en/employees/faculty/gisle-andersen/)
 
 ## Published papers
+Andersen, G., & Langerfeld, C. (2024). Humour and laughter as indicators of meeting leadership style in FOMC meetings. Discourse Studies, 0(0). [https://doi.org/10.1177/14614456241276762](https://doi.org/10.1177/14614456241276762)
+
 Langerfeld, C & Andersen, G (2023): “The Dynamics of Turn-taking in Meetings of the Federal Open Market Committee.” Fachsprache. Journal of Professional and Scientific Communication 45.3–4: 187–210.
 
 Simonnæs, I., Langerfeld, C., Roald, J. & Sandvei, B. (2015). "Teaching legal translation in Norway – JurDist: an online course." Terminology Science & Research 25: 28–39.
