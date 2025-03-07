@@ -27,8 +27,12 @@ author:
   bio              : "Associate professor in Digital Text Analysis"
   location         : "Bergen, Norway"
   employer         : "Norwegian School of Economics"
-  uri              : "http://www.nhh.no" # URL
+  uri              : # URL
   email            : # "none@example.org" 
+  links:
+    - label: "OSF Repository"
+      icon: "fas fa-database"
+      url: "https://osf.io/4vn5m/"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
