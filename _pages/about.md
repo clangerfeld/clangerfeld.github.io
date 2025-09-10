@@ -16,16 +16,43 @@ My research employs corpus linguistics and NLP (Natural Language Processing) tec
 
 # Research
 
-## Published papers
-Andersen, G., & Langerfeld, C. (2024). Humour and laughter as indicators of meeting leadership style in FOMC meetings. Discourse Studies, 27(3): 327-348. [https://doi.org/10.1177/14614456241276762](https://doi.org/10.1177/14614456241276762)
+## Published and submitted papers
+Andersen, G., & Langerfeld, C. (submitted). A Corpus-Assisted Discourse Studies approach to meeting leadership style in FOMC deliberations. In N. Yáñez-Bouza, D. González-Alvarez, & E. Rama-Martínez (Eds.), *Register and discourse through the lens of corpus linguistics.* John Benjamins.
 
-Langerfeld, C & Andersen, G (2023): [“The Dynamics of Turn-taking in Meetings of the Federal Open Market Committee.”](https://doi.org/10.24989/fs.v45i3-4.2201) Fachsprache. Journal of Professional and Scientific Communication 45.3–4: 187–210.
+Andersen, G., & Langerfeld, C. (2024). Humour and laughter as indicators of meeting leadership style in FOMC meetings. *Discourse Studies*, 27(3): 327-348. [https://doi.org/10.1177/14614456241276762](https://doi.org/10.1177/14614456241276762)
 
-Simonnæs, I., Langerfeld, C., Roald, J. & Sandvei, B. (2015). "Teaching legal translation in Norway – JurDist: an online course." Terminology Science & Research 25: 28–39.
+Langerfeld, C & Andersen, G (2023): [“The Dynamics of Turn-taking in Meetings of the Federal Open Market Committee.”](https://doi.org/10.24989/fs.v45i3-4.2201) *Fachsprache. Journal of Professional and Scientific Communication* 45.3–4: 187–210.
 
-Langerfeld, C. (2015). "Metaphern und metaphorische Modelle in Artikeln der Wirtschaftspresse und in wirtschaftswissenschaftlichen Zeitschriftenaufsätzen. Am Beispiel des Deutschen und Norwegischen." University of Bergen: Bergen.
+Simonnæs, I., Langerfeld, C., Roald, J. & Sandvei, B. (2015). "Teaching legal translation in Norway – JurDist: an online course." *Terminology Science & Research* 25: 28–39.
 
-Langerfeld, C. (2009). "Zur Differenzierung des Metaphernbegriffs." Synaps 22: 31–52.
+Langerfeld, C. (2015). *Metaphern und metaphorische Modelle in Artikeln der Wirtschaftspresse und in wirtschaftswissenschaftlichen Zeitschriftenaufsätzen. Am Beispiel des Deutschen und Norwegischen.* University of Bergen: Bergen.
+
+Langerfeld, C. (2009). Zur Differenzierung des Metaphernbegriffs. *Synaps* 22: 31–52.
+
+## Presentations
+
+*Who interrupts? Investigating contestive and supportive interruptions in FOMC meetings*<br>
+ICAME46, Vilnius, Lithuania. (20.6.2025)<br>
+Together with Gisle Andersen
+
+*A Corpus-Assisted Discourse Studies approach to meeting leadership style in FOMC deliberations*<br>
+ICAME45, Vigo, Spain. (21.6.2024)<br>
+Together with Gisle Andersen
+
+*The dynamics of turn-taking in deliberations of monetary policy.*<br>
+23rd International Conference on Language for Specific Purposes (LSP 2022), Lisboa. (13.9.2022)<br>
+Together with Gisle Andersen
+
+*Pragmatic markers in deliberations of monetary policy.*<br>
+International Pragmatics Conference. Winthertur. (29.6.2021)<br>
+Together with Gisle Andersen
+
+*Extracting information from unstructured text.*<br>
+Samling for analytikere i Skateetaten, Bergen. (23.9.2019)<br>
+Invited talk
+
+*Multi-word-sequences in German legislation and court decisions.*<br>
+21st European Symposium on Languages for Special Purposes. Norwegian School of Economics, Bergen. (29.6.2017)
 
 ---
 
