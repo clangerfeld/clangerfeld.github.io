@@ -10,7 +10,7 @@ redirect_from:
 # Bio
 I am an Associate Professor of Digital Text Analysis at the Norwegian School of Economics (NHH) in Bergen, Norway, focusing on the study of professional and specialized communication. I have been in my current position since 2022. I hold a PhD degree form the University of Bergen.
 
-My research employs corpus linguistics and NLP (Natural Language Processing) techniques to analyze textual data from business related domains. Recently, I have been focusing my research on meeting transcripts of the Federal Open Market Committee (FOMC). In 2023 I co-authored a [paper](https://doi.org/10.24989/fs.v45i3-4.2201) on turn taking mechanisms in FOMC meetings. Building on the same data set, I co-authored a [paper](https://doi.org/10.1177/14614456241276762) exploring humor and laughter in FOMC meetings as indicators of meeting leadership style. 
+My research employs corpus linguistics and NLP (Natural Language Processing) techniques to analyze textual data from business related domains. Recently, I have been focusing my research on meeting transcripts of the Federal Open Market Committee (FOMC). In 2023 I co-authored a [paper](https://doi.org/10.24989/fs.v45i3-4.2201) on turn taking mechanisms in FOMC meetings. Building on the same data set, I co-authored a [paper](https://doi.org/10.1177/14614456241276762) exploring humor and laughter in FOMC meetings as indicators of meeting leadership style.
 
 ---
 
