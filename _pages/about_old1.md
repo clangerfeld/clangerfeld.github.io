@@ -17,7 +17,7 @@ My research employs corpus linguistics and NLP (Natural Language Processing) tec
 # Research
 
 ## Published papers
-Andersen, G., & Langerfeld, C. (2024). Humour and laughter as indicators of meeting leadership style in FOMC meetings. Discourse Studies, 27(3): 327-348. [https://doi.org/10.1177/14614456241276762](https://doi.org/10.1177/14614456241276762)
+Andersen, G., & Langerfeld, C. (2024). Humour and laughter as indicators of meeting leadership style in FOMC meetings. Discourse Studies, 27(3): 327-348. [https://doi.org/10.1177/14614456241276762](https://doi.org/10.1177/14614456241276762) 
 
 Langerfeld, C & Andersen, G (2023): [“The Dynamics of Turn-taking in Meetings of the Federal Open Market Committee.”](https://doi.org/10.24989/fs.v45i3-4.2201) Fachsprache. Journal of Professional and Scientific Communication 45.3–4: 187–210.
 
