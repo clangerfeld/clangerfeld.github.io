@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Christian Langerfeld"
 author_profile: true
